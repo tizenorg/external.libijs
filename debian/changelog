@@ -1,3 +1,11 @@
+ijs (0.35_12) unstable; urgency=low
+
+  * Sync with private and rsa
+  * Git: external/libijs
+  * Tag: ijs_0.35_12
+
+ -- GangHeok Kim <gangheok.kim@samsung.com>  Wed, 07 Aug 2013 13:45:48 +0900
+
 ijs (0.35-11slp2) unstable; urgency=low
 
   * Added license file
@@ -12,7 +20,7 @@ ijs (0.35-10slp2) unstable; urgency=low
   * Git: slp/pkgs/l/libijs
   * Tag: ijs_0.35-10slp2
 
- -- gpeegpee <gpeegpee@gpeegpee-ubuntu>  Thu, 20 Sep 2012 13:53:00 +0900
+ -- GangHeok Kim <gangheok.kim@samsung.com>  Thu, 20 Sep 2012 13:53:00 +0900
 
 ijs (0.35-9slp2) unstable; urgency=low
 

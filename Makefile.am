@@ -34,7 +34,7 @@ MAINT_CHARSET = latin1
 
 pkgincludedir=$(includedir)/ijs
 m4datadir = $(datadir)/aclocal
-pkgconfigdatadir = $(prefix)/lib/pkgconfig
+pkgconfigdatadir = $(libdir)/pkgconfig
 
 lib_LTLIBRARIES = libijs.la
 
